@@ -16,7 +16,6 @@ VoiceQuest AI is a conversational AI system that integrates voice recognition an
    ```
 
 2. **Create a virtual environment and activate it**:
-- **For Windows**:
     ```bash
     python -m venv venv
     venv\Scripts\activate
@@ -34,7 +33,7 @@ Create a .env file in the root directory of the project and add the following en
 HUGGINGFACE_KEY=<your-huggingface-api-key>
 LLAMA_CLOUD_API_KEY=<your-llama-cloud-api-key>
 GOOGLE_API_KEY=<your-google-api-key>
-GROQ_API_KEY=your-groq-api-key>
+GROQ_API_KEY=<your-groq-api-key>
 ```
 
 **5. Run the application**:
