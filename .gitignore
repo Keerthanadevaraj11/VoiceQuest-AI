@@ -1,0 +1,43 @@
+# Ignore environment variable files
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache files
+*.cache
+*.log
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+ENV/
+env.bak/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Ignore Python-specific environment files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Ignore other development tool files
+*.bak
+*.swp
+*.swo
+*.tmp
