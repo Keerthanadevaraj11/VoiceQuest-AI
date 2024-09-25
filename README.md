@@ -1,11 +1,11 @@
-# Voice-Driven RAG AI
+# VoiceQuest AI
 
 VoiceQuest AI is a conversational AI system that integrates voice recognition and Retrieval-Augmented Generation (RAG) methods to provide context-based responses to users' voice queries. The system allows users to ask questions using their voice, and the AI responds with accurate and contextually relevant information.
 
 ## Features:
 - **Voice-powered interaction**: Use your voice to interact with the system.
 - **Retrieval-Augmented Generation (RAG)**: Answers are generated based on retrieved relevant documents or information.
-- **Text-to-Speech (TTS) and Speech-to-Text (STT)**: Uses Faster-Whisper for speech processing to convert user voice to text and gTTs to convert the generated text to speech.
+- **Text-to-Speech (TTS) and Speech-to-Text (STT)**: Uses **Faster-Whisper** for speech processing to convert user voice to text and **gTTs** to convert the generated text to speech.
 - **Context-aware responses**: The model provides detailed answers relevant to the context of the user's query.
 
 ## Setup Instructions:
