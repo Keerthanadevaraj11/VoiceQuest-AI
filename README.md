@@ -30,7 +30,6 @@ pip install -r requirements.txt
 Create a .env file in the root directory of the project and add the following environment variables with your own API keys:
 
 ```bash
-HUGGINGFACE_KEY=<your-huggingface-api-key>
 LLAMA_CLOUD_API_KEY=<your-llama-cloud-api-key>
 GOOGLE_API_KEY=<your-google-api-key>
 GROQ_API_KEY=<your-groq-api-key>
