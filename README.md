@@ -12,8 +12,7 @@ VoiceQuest AI is a conversational AI system that integrates voice recognition an
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/voice-driven-rag-ai.git
-   cd voice-driven-rag-ai
+   git clone https://github.com/Keerthanadevaraj11/VoiceQuest-AI.git
    ```
 
 2. **Create a virtual environment and activate it**:
